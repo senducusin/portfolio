@@ -9,7 +9,7 @@
 		console.log("should open link")
 		window.setTimeout(function () {
 			$body.removeClass('is-preload');
-			window.location.href = "https://senducusin-portfolio.herokuapp.com/";
+			window.location.href = "https://calm-plum-newt-hose.cyclic.app";
 		}, 100);
 	});
 
